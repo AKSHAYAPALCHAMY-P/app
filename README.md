@@ -64,8 +64,10 @@ ng new applicationName
 
 ## create new component
 
-ng g c ComponentName
+```ng g c ComponentName
+```
 
 ## Run
-
+```
 ng serve
+```
