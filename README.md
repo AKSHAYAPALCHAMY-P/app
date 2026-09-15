@@ -63,7 +63,6 @@ For more information on using the Angular CLI, including detailed command refere
 ng new applicationName
 
 ## create new component
-
 ```
 ng g c ComponentName
 ```
